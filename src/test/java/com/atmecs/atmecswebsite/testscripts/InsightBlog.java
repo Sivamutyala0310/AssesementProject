@@ -6,13 +6,18 @@ import com.atmecs.atmecswebsite.helperspage.HelperInsightBlogPage;
 import com.atmecs.atmecswebsite.reports.LogReports;
 import com.atmecs.atmecswebsite.testbase.TestBase;
 
-public class InsightBlog extends TestBase
-{
+public class InsightBlog extends TestBase {
 	LogReports log = new LogReports();
+
 	@Test
 	public void insightBlog() throws Exception
 	{
-		 HelperInsightBlogPage.insightBlog();
+		log.info("SECOND SCENARIO STARTED");
+		
+		HelperInsightBlogPage.insightBlog();                         // performing second scenario
+		
+		log.info("SECOND SCENARIO SUCCESSFULLY COMPLETED");
+		
 	}
 
 }

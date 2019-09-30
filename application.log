@@ -106,3 +106,795 @@
 2019-09-26 20:42:46,530  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
 2019-09-26 20:59:50,390  INFO [main] LogReports:22 - Chrome browser is started...
 2019-09-26 21:00:13,352  INFO [main] LogReports:22 - failed: validated blog: Actual data : Debunking Myths about AI   Expected :null
+2019-09-27 09:41:10,736  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 09:41:26,529  INFO [main] LogReports:22 - failed: validated blog: Actual data : Debunking Myths about AI   Expected :null
+2019-09-27 09:41:31,163  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :null
+2019-09-27 09:47:39,156  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 09:47:55,551  INFO [main] LogReports:22 - failed: validated blog: Actual data : Debunking Myths about AI   Expected :null
+2019-09-27 09:48:00,244  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :null
+2019-09-27 10:10:48,092  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:11:07,138  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:11:25,602  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:17:02,386  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:17:19,000  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:17:24,541  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:17:24,808  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 10:24:51,720  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:25:07,851  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:25:12,305  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:25:12,574  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 10:30:16,954  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 10:30:32,450  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 10:30:37,447  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI Home › AI › Debunking Myths about AI
+2019-09-27 10:30:37,696  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 12:11:34,971  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:11:51,626  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:15:45,221  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:16:02,301  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:19:07,241  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:20:19,187  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:20:51,101  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:23:17,311  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:23:39,219  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:30:32,211  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:30:56,001  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:32:28,912  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:32:52,503  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:40:56,714  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 12:41:57,102  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 12:42:13,022  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 12:43:43,571  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 12:44:06,599  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 13:11:22,923  INFO [main] LogReports:22 - IE browser is started...
+2019-09-27 13:11:47,119  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 13:12:01,302  INFO [main] LogReports:22 - failed: validated date: Actual data :    Expected :September 26, 2019
+2019-09-27 13:52:53,007  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:56:31,804  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:57:20,222  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:58:17,248  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 13:59:39,542  INFO [main] LogReports:22 - Firefox browser is started...
+2019-09-27 14:04:29,188  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:04:53,338  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:09:11,622  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:09:31,104  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:11:26,570  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:11:45,559  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:14:48,373  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:15:07,747  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:15:15,766  INFO [main] LogReports:22 - failed: validated date: Actual data :    Expected :September 26, 2019
+2019-09-27 14:15:16,414  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI Home › AI › Debunking Myths about AI
+2019-09-27 14:15:16,658  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:22:14,571  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:22:34,399  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:22:42,310  INFO [main] LogReports:22 - failed: validated date: Actual data :    Expected :September 26, 2019
+2019-09-27 14:22:42,439  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:22:42,582  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:22:43,140  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI Home › AI › Debunking Myths about AI
+2019-09-27 14:22:43,392  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:29:45,531  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:30:07,535  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:30:19,420  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:30:19,853  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:30:20,041  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:30:20,221  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:30:20,377  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 14:45:35,010  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 14:46:54,513  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 14:47:13,543  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 14:47:14,017  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI                 Home › AI › Debunking Myths about AI
+2019-09-27 14:59:27,081  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:00:28,214  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:01:51,376  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:02:19,573  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 15:02:35,836  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 15:02:36,279  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI 
+ Home › AI › Debunking Myths about AI
+2019-09-27 15:02:36,495  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 15:02:36,651  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 15:19:32,729  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:19:59,800  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 15:20:17,288  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 15:20:17,802  INFO [main] LogReports:22 - failed: validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+ Home › AI › Debunking Myths about AI
+2019-09-27 15:20:18,046  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 15:20:18,202  INFO [main] LogReports:22 - failed: validated comment field: Actual data :    Expected :Please fill out this field.
+2019-09-27 15:20:18,378  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 15:33:58,853  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 15:34:30,891  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 15:34:44,205  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 15:34:44,715  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-27 15:34:44,927  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 17:22:14,574  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 17:22:32,548  INFO [main] LogReports:22 - Second Scenario Started
+2019-09-27 17:22:37,041  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 17:22:47,374  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 17:34:45,184  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 17:35:01,144  INFO [main] LogReports:22 - Second Scenario Started
+2019-09-27 17:35:07,293  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 17:35:16,590  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 17:35:16,744  INFO [main] LogReports:22 - failed: validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+2019-09-27 17:35:17,293  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-27 17:35:17,555  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 17:35:17,555  INFO [main] LogReports:22 - Second scenario successfully completed
+2019-09-27 18:04:37,172  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 18:04:52,805  INFO [main] LogReports:22 - Second Scenario Started
+2019-09-27 18:04:57,110  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-27 18:05:06,430  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-27 18:05:06,608  INFO [main] LogReports:22 - failed: validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.ATMECS AI Infographic
+2019-09-27 18:05:07,236  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-27 18:05:07,499  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-27 18:05:07,499  INFO [main] LogReports:22 - Second scenario successfully completed
+2019-09-27 18:44:15,580  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 18:44:32,401  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-27 18:44:34,993  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:34,993  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:37,148  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:37,148  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:44,756  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:44,756  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:47,635  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:47,635  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:44:50,143  INFO [main] LogReports:22 - passed: validated all pages footer dimension: Actual data : (1349, 399)   Expected :(1349, 399)
+2019-09-27 18:44:50,148  INFO [main] LogReports:22 - passed: validated all pages footer text size: Actual data : 546   Expected :546
+2019-09-27 18:45:05,606  INFO [main] LogReports:22 - Footer of all the pages are validated: All the pages contain same Footer values
+2019-09-27 19:04:54,010  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 19:05:11,711  INFO [main] LogReports:22 - second test case started
+2019-09-27 19:05:12,685  INFO [main] LogReports:22 - second test case completed
+2019-09-27 20:08:21,759  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 20:08:40,481  INFO [main] LogReports:22 - second test case started
+2019-09-27 20:08:41,141  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-27 20:08:41,661  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-27 20:08:41,661  INFO [main] LogReports:22 - second test case completed
+2019-09-27 20:40:31,747  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 20:40:51,199  INFO [main] LogReports:22 - second test case started
+2019-09-27 20:40:51,928  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-27 20:40:52,472  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-27 20:43:10,566  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-27 20:43:29,151  INFO [main] LogReports:22 - second test case started
+2019-09-27 20:43:29,873  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-27 20:43:30,492  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-28 12:05:28,472  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-28 12:05:45,886  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-28 12:05:53,540  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-28 12:06:03,518  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-28 12:06:03,698  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-09-28 12:06:04,207  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-28 12:06:04,515  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-28 12:06:04,515  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-09-29 10:27:25,925  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 10:27:56,758  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-29 10:27:56,759  INFO [main] LogReports:22 - SCENARIO 1 STARTED
+2019-09-29 10:34:12,091  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 10:34:26,217  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-29 10:34:26,217  INFO [main] LogReports:22 - SCENARIO 1 STARTED
+2019-09-29 10:44:15,527  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 10:44:31,097  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-29 10:44:31,097  INFO [main] LogReports:22 - SCENARIO 1 STARTED
+2019-09-29 10:44:49,040  INFO [main] LogReports:22 - Footer size of all the pages are verfied: and all the pages contain same Footer values
+2019-09-29 10:45:00,092  INFO [main] LogReports:22 - Footer of all the pages are validated: All the pages contain same Footer values
+2019-09-29 10:45:00,092  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages
+2019-09-29 11:29:04,394  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 11:29:35,420  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-29 11:29:35,420  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-09-29 11:30:15,361  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values
+2019-09-29 11:30:37,740  INFO [main] LogReports:22 - Footer of all the pages are validated: All the pages contain same Footer values
+2019-09-29 11:30:37,740  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages
+2019-09-29 13:49:45,661  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 13:50:10,208  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 13:50:10,804  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 13:50:11,243  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 14:02:16,019  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 14:03:05,541  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 14:03:06,280  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 14:03:06,764  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 14:08:55,562  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 14:09:38,708  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 14:09:39,265  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 14:09:39,769  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 14:15:36,735  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 14:16:26,408  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 14:16:27,027  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 14:16:27,511  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 14:16:27,689  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 14:16:27,689  INFO [main] LogReports:22 - second test case completed
+2019-09-29 15:23:00,804  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 15:24:03,654  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 15:24:04,275  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 15:24:04,727  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 15:24:04,923  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 15:24:04,923  INFO [main] LogReports:22 - second test case completed
+2019-09-29 15:38:55,187  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 15:39:40,975  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 15:39:41,785  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 15:39:42,351  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 15:39:42,680  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 15:39:42,681  INFO [main] LogReports:22 - second test case completed
+2019-09-29 15:54:27,729  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 15:55:09,621  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 15:55:10,223  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 15:55:10,626  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 15:55:10,803  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 15:55:10,804  INFO [main] LogReports:22 - second test case completed
+2019-09-29 16:23:42,923  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 16:26:20,228  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 16:28:21,190  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 16:28:21,681  INFO [main] LogReports:22 - failed: validated services menu: Actual data : Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 16:29:06,624  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 16:29:19,999  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 16:29:20,630  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 16:29:21,107  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 16:29:21,338  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 16:29:21,339  INFO [main] LogReports:22 - second test case completed
+2019-09-29 16:31:02,338  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 16:31:16,315  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 16:31:17,152  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 16:31:17,778  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 16:31:18,020  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 16:31:18,020  INFO [main] LogReports:22 - second test case completed
+2019-09-29 16:54:58,828  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 16:56:56,413  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 17:00:21,873  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 17:00:22,471  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 17:00:22,947  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 17:00:23,114  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 17:00:23,114  INFO [main] LogReports:22 - second test case completed
+2019-09-29 17:09:14,579  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 17:11:47,538  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 17:11:48,123  INFO [main] LogReports:22 - failed: validated services menu: Actual data : Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 17:12:46,567  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 17:14:43,506  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 17:14:44,053  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 17:14:44,549  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :null
+2019-09-29 17:14:44,726  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 17:14:44,726  INFO [main] LogReports:22 - second test case completed
+2019-09-29 19:07:18,989  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 19:07:38,628  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 19:07:39,272  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 19:07:39,767  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :Digital Life
+Artificial Intelligence? Machine Learning
+Augmented Reality? Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-09-29 19:07:39,978  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 19:07:39,982  INFO [main] LogReports:22 - second test case completed
+2019-09-29 19:11:45,903  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 19:12:01,820  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 19:12:02,484  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 19:12:03,043  INFO [main] LogReports:22 - failed: validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :Digital Life
+Artificial Intelligence/Machine Learning
+Augmented Reality/ Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-09-29 19:12:03,266  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 19:12:03,266  INFO [main] LogReports:22 - second test case completed
+2019-09-29 20:07:59,589  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 20:08:15,785  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 20:08:16,396  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 20:08:16,853  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-09-29 20:08:17,329  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected :Infrastructure Services
+Infrastructure Management
+2019-09-29 20:08:17,330  INFO [main] LogReports:22 - second test case completed
+2019-09-29 20:11:36,510  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 20:11:53,011  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 20:11:53,665  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 20:11:54,206  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-09-29 20:11:54,710  INFO [main] LogReports:22 - failed: validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected :Infrastructure Services
+Infrastructure ManagementCloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-09-29 20:11:54,710  INFO [main] LogReports:22 - second test case completed
+2019-09-29 23:43:54,356  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 23:44:35,324  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-29 23:44:41,210  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-29 23:45:01,723  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-29 23:45:01,882  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-09-29 23:45:02,344  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-29 23:45:02,604  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-29 23:45:02,604  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-09-29 23:45:34,721  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 23:47:30,171  INFO [main] LogReports:22 - second test case started: veryifing Service menu fields
+2019-09-29 23:47:30,743  INFO [main] LogReports:22 - Passed : validated services menu: Actual data : Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services   Expected :Services
+Digital Life
+Cloud Services
+Enterprise Analytics
+Product Engineering
+Mobile Computing
+Quality Engineering
+Infrastructure Services
+2019-09-29 23:47:31,151  INFO [main] LogReports:22 - Passed : validated DigitalLife menu: Actual data : Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things   Expected :Digital Life
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Blockchain
+Robotic Process Automation & ChatBOTs
+Internet of Things
+2019-09-29 23:47:31,655  INFO [main] LogReports:22 - Passed : validated infrastructureServicesMenu: Actual data : Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management   Expected :Infrastructure Services
+Infrastructure Management
+Cloud Infrastructure
+Devops
+NOC Services
+Data Center Management
+2019-09-29 23:47:31,655  INFO [main] LogReports:22 - second test case completed
+2019-09-29 23:48:32,516  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 23:49:13,801  INFO [main] LogReports:22 - SECOND SCENARIO STARTED
+2019-09-29 23:49:21,337  INFO [main] LogReports:22 - Passed : validated blog: Actual data : Debunking Myths about AI   Expected :Debunking Myths about AI
+2019-09-29 23:49:40,703  INFO [main] LogReports:22 - failed: validated date: Actual data : March 15, 2019   Expected :September 26, 2019
+2019-09-29 23:49:41,041  INFO [main] LogReports:22 - Passed : validated blog text present or not: Actual data : Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic   Expected :Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence. However, AI too has been a victim of some myths and misconceptions which usually surround anything that is popular. Here’s an infographic to debunk the most common myths about AI.
+ATMECS AI Infographic
+2019-09-29 23:49:46,565  INFO [main] LogReports:22 - Passed : validated breadcrumb: Actual data : Debunking Myths about AI
+Home › AI › Debunking Myths about AI   Expected :Debunking Myths about AI
+Home › AI › Debunking Myths about AI
+2019-09-29 23:49:46,879  INFO [main] LogReports:22 - Passed : validated comment field: Actual data : Please fill out this field.   Expected :Please fill out this field.
+2019-09-29 23:49:46,879  INFO [main] LogReports:22 - SECOND SCENARIO SUCCESSFULLY COMPLETED
+2019-09-29 23:53:51,820  INFO [main] LogReports:22 - Chrome browser is started...
+2019-09-29 23:54:29,704  INFO [main] LogReports:22 - Navigating to ATMECS website
+2019-09-29 23:54:29,708  INFO [main] LogReports:22 - ....SCENARIO 1 STARTED....
+2019-09-29 23:54:55,338  INFO [main] LogReports:22 - Footer size of all the pages are verfied: All the pages contain same Footer values (1349, 399)
+2019-09-29 23:55:07,634  INFO [main] LogReports:22 - Footer text of all the pages are validated: All the pages contain same Footer values Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-09-29 23:55:07,634  INFO [main] LogReports:22 - Succesfully completed verifying footer size and footer text of all the pages

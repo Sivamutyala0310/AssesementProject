@@ -7,14 +7,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
-
 import com.atmecs.atmecswebsite.waits.Waits;
 
 public class PageActions 
 {
-	
-
-		static WebElement element;
+	static WebElement element;
+	static String text;
 
 		public static void clickElement(WebDriver driver, String xpath) 
 		{ 
@@ -35,10 +33,15 @@ public class PageActions
 			action.moveToElement(element).build().perform();
 		}
 		
-
 		public static void selectDropDown(WebDriver driver, String xpath) {
 			Select select = new Select(driver.findElement(By.xpath(xpath)));
 			select.selectByValue(" value");
+		}
+		public static String alertFindElement(WebDriver driver, String xpath) {
+			 driver.findElement(By.xpath(xpath));
+			text= handlingAlert( driver);
+			return text;
+			
 		}
 
 		public static Dimension fetchAttributeSize(WebDriver driver, String xpath) {
@@ -47,18 +50,19 @@ public class PageActions
 			return value;
 		}
 
-		public static void handlingAlert(WebDriver driver) {
-			driver.switchTo().alert().dismiss();
+		public static String handlingAlert(WebDriver driver) {
+			 text=driver.switchTo().alert().getText();
+			return text;
 		}
 
 		public static WebElement findElement(WebDriver driver, String xpath) {
-			WebElement element=driver.findElement(By.xpath(xpath));
+			 element=driver.findElement(By.xpath(xpath));
 			performActionMove(driver,element);
 			return element;
 		}
 		public static String fetchAttributeValue(WebDriver driver, String xpath) {
 			Waits.explicitWait(driver, xpath);
-			String value=driver.findElement(By.xpath(xpath)).getAttribute("title");
+			String value=driver.findElement(By.xpath(xpath)).getAttribute("validationMessage");
 			return value;
 		}
 		public static String fetchAttributeText(WebDriver driver, String xpath) {
@@ -72,6 +76,7 @@ public class PageActions
 			String value=driver.findElement(By.xpath(xpath)).getAttribute("innerHTML");
 			return value;
 		}
+		
 		
 	}
 

@@ -2,44 +2,80 @@ package com.atmecs.atmecswebsite.helperspage;
 
 import org.openqa.selenium.Dimension;
 
-import com.atmecs.atmecswebsite.dataallocators.AtmecsSiteValidationDataAllocators;
 import com.atmecs.atmecswebsite.dataallocators.AtmecsSiteXpathAllocators;
 import com.atmecs.atmecswebsite.pageactions.PageActions;
 import com.atmecs.atmecswebsite.pageactions.PageActionsScrollDown;
 import com.atmecs.atmecswebsite.reports.LogReports;
 import com.atmecs.atmecswebsite.testbase.TestBase;
-import com.atmecs.atmecswebsite.validatetest.ValidateResult;
 
 public class HelperHomePage extends TestBase {
-	static String footerText;
-	static Dimension footerSize;
+
 	static AtmecsSiteXpathAllocators data = new AtmecsSiteXpathAllocators();
 	static LogReports log = new LogReports();
-	static AtmecsSiteValidationDataAllocators validateData = new AtmecsSiteValidationDataAllocators();
 
-	public static void verifyFooter() throws Exception 
-	{
+	public static void verifyFooterDimension() throws Exception
+	{		
 		data.getData();
-		PageActions.clickElement(driver, data.getClickOnMenuXpath());
-		verify();
+		
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		Dimension homeFooterSize = PageActions.fetchAttributeSize(driver, data.getFooterXpath());
+		
 		PageActions.clickElement(driver, data.getClickOnAboutUsXpath());
-		verify();
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		Dimension aboutusFooterSize = PageActions.fetchAttributeSize(driver, data.getFooterXpath());
+		
 		PageActions.clickElement(driver, data.getClickOnServicesXpath());
-		verify();
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		Dimension 	servicesFooterSize = PageActions.fetchAttributeSize(driver, data.getFooterXpath());
+		
 		PageActions.clickElement(driver, data.getClickOnPartnersXpath());
-		verify();
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		Dimension	PartnersFooterSize = PageActions.fetchAttributeSize(driver, data.getFooterXpath());
+		
 		PageActions.clickElement(driver, data.getClickOnCarrersXpath());
-		verify();
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		Dimension carrersFooterSize = PageActions.fetchAttributeSize(driver, data.getFooterXpath());
+		
+		if(homeFooterSize.equals(aboutusFooterSize)&& homeFooterSize.equals(servicesFooterSize)&&homeFooterSize.equals(PartnersFooterSize)&& homeFooterSize.equals(carrersFooterSize) )
+		{
+			log.info("Footer size of all the pages are verfied: All the pages contain same Footer values"+" "+homeFooterSize);
+		}
+		else
+		{
+			log.info("Footer size of all the pages are verfied: All the pages contain same Footer values");
+		}
 	}
 
-	public static void verify() throws Exception 
+	  public static void verifyFooterText()
 	{
-		validateData.getData();
+		PageActions.clickElement(driver, data.getClickOnMenuXpath());
 		PageActionsScrollDown.scrollDownToBottom(driver);
-		footerText = PageActions.fetchAttributeText(driver, data.getFooterXpath());
-		footerSize = PageActions.fetchAttributeSize(driver, data.getFooterXpath());
-		ValidateResult.validateDimensionData(footerSize, validateData.getFooterTextDimension(),"validated all pages footer dimension");
-		ValidateResult.validateData(footerText.length(), validateData.getFooterTextLength(),"validated all pages footer text size");
-
+		String homeData = PageActions.fetchAttributeText(driver, data.getFooterXpath());
+		
+		PageActions.clickElement(driver, data.getClickOnAboutUsXpath());
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		String aboutUsData = PageActions.fetchAttributeText(driver, data.getFooterXpath());
+		
+		PageActions.clickElement(driver, data.getClickOnServicesXpath());
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		String servicesData = PageActions.fetchAttributeText(driver, data.getFooterXpath());
+		
+		PageActions.clickElement(driver, data.getClickOnPartnersXpath());
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		String partnersData = PageActions.fetchAttributeText(driver, data.getFooterXpath());
+		
+		PageActions.clickElement(driver, data.getClickOnCarrersXpath());
+		PageActionsScrollDown.scrollDownToBottom(driver);
+		String carrersData = PageActions.fetchAttributeText(driver, data.getFooterXpath());
+		
+		if(homeData.contentEquals(aboutUsData)&&homeData.contentEquals(servicesData)&&homeData.contentEquals(partnersData)&&homeData.contentEquals(carrersData))
+		{
+			log.info("Footer text of all the pages are validated: All the pages contain same Footer values"+" "+homeData);
+		}
+		else
+		{
+			log.info("Footer of all the pages are validated: All the pages contain different Footer values" );
+			
+		}
 	}
 }

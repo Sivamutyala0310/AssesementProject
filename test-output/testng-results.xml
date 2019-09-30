@@ -2,20 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40504" started-at="2019-09-26T15:29:43Z" finished-at="2019-09-26T15:30:23Z">
+  <suite name="AtmecsWebsiteValidation" duration-ms="82721" started-at="2019-09-29T18:23:44Z" finished-at="2019-09-29T18:25:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40504" started-at="2019-09-26T15:29:43Z" finished-at="2019-09-26T15:30:23Z">
-      <class name="com.atmecs.atmecswebsite.testscripts.InsightBlog">
-        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.InsightBlog@7d907bac]" name="initializeBrowser" is-config="true" duration-ms="25830" started-at="2019-09-26T15:29:43Z" finished-at="2019-09-26T15:30:09Z">
+    <test name="ValidatingMenuFields" duration-ms="82721" started-at="2019-09-29T18:23:44Z" finished-at="2019-09-29T18:25:07Z">
+      <class name="com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter@1f28c152]" name="initializeBrowser" is-config="true" duration-ms="44748" started-at="2019-09-29T18:23:44Z" finished-at="2019-09-29T18:24:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeBrowser -->
-        <test-method status="PASS" signature="insightBlog()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.InsightBlog@7d907bac]" name="insightBlog" duration-ms="14631" started-at="2019-09-26T15:30:09Z" finished-at="2019-09-26T15:30:23Z">
+        <test-method status="PASS" signature="verifyFooter()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter@1f28c152]" name="verifyFooter" duration-ms="37941" started-at="2019-09-29T18:24:29Z" finished-at="2019-09-29T18:25:07Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- insightBlog -->
-      </class> <!-- com.atmecs.atmecswebsite.testscripts.InsightBlog -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- verifyFooter -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter@1f28c152]" name="endTest" is-config="true" duration-ms="838" started-at="2019-09-29T18:25:07Z" finished-at="2019-09-29T18:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.atmecs.atmecswebsite.testscripts.AtmecsWebsiteVerifyFooter -->
+    </test> <!-- ValidatingMenuFields -->
+  </suite> <!-- AtmecsWebsiteValidation -->
 </testng-results>

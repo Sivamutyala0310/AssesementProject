@@ -11,21 +11,23 @@ public class AtmecsSiteXpathAllocators {
 	String clickOnAboutUsXpath;
 	String clickOnServicesXpath;
 	String clickOnPartnersXpath;
-	String clickOnMediaXpath;
-	String selectMediaDropDown;
 	String clickOnCarrersXpath;
 	String clickOnDigitalLifeXpath;
 	String goToInsightsXpath;
 	String goToBlogs;
-	String  dateOfBlogs;
+	String dateOfBlog;
 	String selectBlogXpath;
-	String selectingBlog;
 	String breadcrumbXpath;
 	String submit;
 	String clickReadMore;
+	String expectedError;
+	String clickOnBlog;
+	String blogTextXpath;
+	String digitalLifeMenu;
+	String InfrastructureServicesMenu;
+	
 	Properties properties;
 
-	
 	public void getData() throws IOException {
 		properties = com.atmecs.atmecswebsite.utils.ReadLocatorsFile.loadProperty(ConstantFilePaths.LOCATORS_FILE);
 		setClickOnMenuXpath();
@@ -37,12 +39,16 @@ public class AtmecsSiteXpathAllocators {
 		setClickOnDigitalLifeXpath();
 		setGoToInsightsXpath();
 		setGoToBlogs();
+		setClickOnBlog();
 		setDateOfBlogs();
 		setSelectBlogXpath();
-		setSelectingBlog();
 		setBreadcrumbXpath();
 		setSubmit();
-		setClickReadMore();	
+		setClickReadMore();
+		setExpectedError();
+		setBlogTextXpath();
+		setDigitalLifeMenu();
+		setInfrastructureServicesMenu();
 	}
 
 	public String getClickOnMenuXpath() {
@@ -77,11 +83,6 @@ public class AtmecsSiteXpathAllocators {
 		clickOnPartnersXpath = properties.getProperty("clickOnPartnersXpath");
 	}
 
-	public String getClickOnMediaXpath() {
-		return clickOnMediaXpath;
-	}
-
-	
 	public String getClickOnServicesXpath() {
 		return clickOnServicesXpath;
 	}
@@ -89,6 +90,7 @@ public class AtmecsSiteXpathAllocators {
 	public void setClickOnServicesXpath() {
 		clickOnServicesXpath = properties.getProperty("clickOnServicesXpath");
 	}
+
 	public String getClickOnCarrersXpath() {
 		return clickOnCarrersXpath;
 	}
@@ -96,12 +98,13 @@ public class AtmecsSiteXpathAllocators {
 	public void setClickOnCarrersXpath() {
 		clickOnCarrersXpath = properties.getProperty("clickOnCarrersXpath");
 	}
+
 	public String getClickOnDigitalLifeXpath() {
 		return clickOnDigitalLifeXpath;
 	}
 
 	public void setClickOnDigitalLifeXpath() {
-		clickOnDigitalLifeXpath = properties.getProperty("clickOnDigitalLife") ;
+		clickOnDigitalLifeXpath = properties.getProperty("clickOnDigitalLife");
 	}
 
 	public String getGoToInsightsXpath() {
@@ -109,23 +112,26 @@ public class AtmecsSiteXpathAllocators {
 	}
 
 	public void setGoToInsightsXpath() {
-		goToInsightsXpath =properties.getProperty("goToInsightsXpath") ; 
+		goToInsightsXpath = properties.getProperty("goToInsightsXpath");
 	}
+
 	public String getGoToBlogs() {
 		return goToBlogs;
 	}
 
 	public void setGoToBlogs() {
-		goToBlogs = properties.getProperty("goToBlogs") ;
-	
+		goToBlogs = properties.getProperty("goToBlogs");
+
 	}
+
 	public String getDateOfBlogs() {
-		return dateOfBlogs;
+		return dateOfBlog;
 	}
 
 	public void setDateOfBlogs() {
-		dateOfBlogs =properties.getProperty("dateOfBlogs")  ;
+		dateOfBlog = properties.getProperty("dateOfBlog");
 	}
+
 	public String getSelectBlogXpath() {
 		return selectBlogXpath;
 	}
@@ -133,13 +139,7 @@ public class AtmecsSiteXpathAllocators {
 	public void setSelectBlogXpath() {
 		selectBlogXpath = properties.getProperty("selectBlogXpath");
 	}
-	public String getSelectingBlog() {
-		return selectingBlog;
-	}
 
-	public void setSelectingBlog() {
-		selectingBlog = properties.getProperty("selectingBlog");
-	}
 	public String getBreadcrumbXpath() {
 		return breadcrumbXpath;
 	}
@@ -147,19 +147,57 @@ public class AtmecsSiteXpathAllocators {
 	public void setBreadcrumbXpath() {
 		breadcrumbXpath = properties.getProperty("breadcrumbXpath");
 	}
+
 	public String getSubmit() {
 		return submit;
 	}
 
 	public void setSubmit() {
-		submit =  properties.getProperty("submit");
+		submit = properties.getProperty("submit");
 	}
+
 	public String getClickReadMore() {
 		return clickReadMore;
 	}
 
 	public void setClickReadMore() {
-		clickReadMore =properties.getProperty("clickReadMore") ;
+		clickReadMore = properties.getProperty("clickReadMore");
+	}
+
+	public String getExpectedError() {
+		return expectedError;
+	}
+
+	public void setExpectedError() {
+		expectedError = properties.getProperty("expectedError");
+	}
+	public String getClickOnBlog() {
+		return clickOnBlog;
+	}
+
+	public void setClickOnBlog() {
+		clickOnBlog =properties.getProperty("clickOnBlog");
+	}
+	public String getBlogTextXpath() {
+		return blogTextXpath;
+	}
+
+	public void setBlogTextXpath() {
+		this.blogTextXpath = properties.getProperty("blogTextXpath");
+	}
+	public String getDigitalLifeMenu() {
+		return digitalLifeMenu;
+	}
+
+	public void setDigitalLifeMenu() {
+		digitalLifeMenu =properties.getProperty("digitalLifeMenu") ;
+	}
+	public String getInfrastructureServicesMenu() {
+		return InfrastructureServicesMenu;
+	}
+
+	public void setInfrastructureServicesMenu() {
+		InfrastructureServicesMenu = properties.getProperty("InfrastructureServicesMenu");
 	}
 	public static void main(String[] args) throws IOException {
 		AtmecsSiteXpathAllocators keys = new AtmecsSiteXpathAllocators();
